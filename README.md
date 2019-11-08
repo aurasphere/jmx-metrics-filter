@@ -2,7 +2,7 @@
 
 Servlet filter implementation for extracting metrics and exposing them on JMX. Two version are provided:
  - **jmx-metrics-filter-jdk8**, backward compatibile with Java 8, based on [micrometer.io](http://micrometer.io)
- - **jmx-metrics-filter-jdk5**, backward compatibile with Java 5, based on [dropwizard.io](http://dropwizard.io)
+ - **jmx-metrics-filter-jdk5**, backward compatibile with Java 5, based on [metrics.dropwizard.io](https://metrics.dropwizard.io)
  
 ## Usage
 To import the library using Maven, add this to your `pom.xml` (changing the * with the version you want to use):
