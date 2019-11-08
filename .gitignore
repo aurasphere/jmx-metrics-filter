@@ -1,0 +1,6 @@
+*.classpath
+*.project
+/jmx-metrics-filter-jdk5/.settings/
+/jmx-metrics-filter-jdk8/.settings/
+/jmx-metrics-filter-jdk5/target/
+/jmx-metrics-filter-jdk8/target/
