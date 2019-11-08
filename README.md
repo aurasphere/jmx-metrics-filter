@@ -1,6 +1,8 @@
 # jmx-metrics-filter
 
-Servlet filter implementation for extracting metrics and exposing them on JMX. Two version are provided:
+Servlet filter implementation for extracting metrics and exposing them on JMX. The filter will expose a bean for each combination of endpoint/HTTP status code with the invocation time stats (average, minimum, maximum...). 
+
+Two artifacts are provided:
  - **jmx-metrics-filter-jdk8**, backward compatibile with Java 8, based on [micrometer.io](http://micrometer.io)
  - **jmx-metrics-filter-jdk5**, backward compatibile with Java 5, based on [metrics.dropwizard.io](https://metrics.dropwizard.io)
  
