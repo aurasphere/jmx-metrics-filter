@@ -71,3 +71,5 @@ When using the filter on a container, you can tweak it further with the followin
     public Filter jmxMetricsFilter() {
         return new JmxMetricsFilter();
     }
+
+<sub>Copyright (c) 2019 Donato Rimenti</sub>
