@@ -1,6 +1,11 @@
-# JMX Metrics Filter
-
+[![Travis](https://img.shields.io/travis/aurasphere/jmx-metrics-filter.svg)](https://travis-ci.org/aurasphere/jmx-metrics-filter)
+[![Maven Central](https://img.shields.io/maven-central/v/co.aurasphere.metrics/jmx-metrics-filter-jdk5.svg)](http://search.maven.org/#artifactdetails%7Cco.aurasphere.metrics%jmx-metrics-filter-jdk5%7C1.0.0%7Cjar)
+[![Javadocs](http://javadoc.io/badge/co.aurasphere.metrics/jmx-metrics-filter-jdk5.svg)](http://javadoc.io/doc/co.aurasphere/jmx-metrics-filter-jdk5)
+[![Maintainability](https://api.codeclimate.com/v1/badges/43d564cf9ee6e93d8391/maintainability)](https://codeclimate.com/github/aurasphere/jmx-metrics-filter/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/43d564cf9ee6e93d8391/test_coverage)](https://codeclimate.com/github/aurasphere/jmx-metrics-filter/test_coverage)
 [![Join the chat at https://gitter.im/jmx-metrics-filter/community](https://badges.gitter.im/jmx-metrics-filter/community.svg)](https://gitter.im/jmx-metrics-filter/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+# JMX Metrics Filter
 
 Servlet filter implementation for extracting metrics and exposing them on JMX. The filter will expose a bean for each combination of endpoint/HTTP status code with the invocation time stats (average, minimum, maximum...). 
 
