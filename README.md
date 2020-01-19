@@ -1,5 +1,7 @@
 # JMX Metrics Filter
 
+[![Join the chat at https://gitter.im/jmx-metrics-filter/community](https://badges.gitter.im/jmx-metrics-filter/community.svg)](https://gitter.im/jmx-metrics-filter/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Servlet filter implementation for extracting metrics and exposing them on JMX. The filter will expose a bean for each combination of endpoint/HTTP status code with the invocation time stats (average, minimum, maximum...). 
 
 Two artifacts are provided:
