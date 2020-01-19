@@ -1,4 +1,4 @@
-# jmx-metrics-filter
+# JMX Metrics Filter
 
 Servlet filter implementation for extracting metrics and exposing them on JMX. The filter will expose a bean for each combination of endpoint/HTTP status code with the invocation time stats (average, minimum, maximum...). 
 
