@@ -4,6 +4,7 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/43d564cf9ee6e93d8391/maintainability)](https://codeclimate.com/github/aurasphere/jmx-metrics-filter/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/43d564cf9ee6e93d8391/test_coverage)](https://codeclimate.com/github/aurasphere/jmx-metrics-filter/test_coverage)
 [![Join the chat at https://gitter.im/jmx-metrics-filter/community](https://badges.gitter.im/jmx-metrics-filter/community.svg)](https://gitter.im/jmx-metrics-filter/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-orange.svg)](https://www.paypal.com/donate/?cmd=_donations&business=8UK2BZP2K8NSS)
 
 # JMX Metrics Filter
 
